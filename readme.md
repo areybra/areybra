@@ -8,7 +8,7 @@ Saya suka mempelajari hal baru terutama tentang JavaScript, REST API, dan React.
 
 ---
 
-## 🎨 Animasi Logo (HTML • CSS • JS)
+## 🎨 Canvas
 
 <p align="center">
   <style>
@@ -19,13 +19,11 @@ Saya suka mempelajari hal baru terutama tentang JavaScript, REST API, dan React.
       align-items: center;
       margin-top: 10px;
     }
-
     .spin-icons img {
       width: 70px;
       height: 70px;
       animation: spin 4s linear infinite;
     }
-
     @keyframes spin {
       from { transform: rotate(0deg); }
       to { transform: rotate(360deg); }
