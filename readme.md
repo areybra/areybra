@@ -1,6 +1,6 @@
 <!-- ======================= INTRO ======================= -->
 
-<h2 align="center">👋 Hello, I'm <span style="color:#00bfff">Radja</span></h2>
+<h2 align="center">👋 Hello, I'm <span style="color:#00bfff">Arey</span></h2>
 <p align="center">Web Development • Learning • Building • Growing</p>
 
 ---
@@ -12,7 +12,7 @@ Saya suka membuat mini-project untuk melatih skill dan kreativitas.
 
 ---
 
-## 🚀 Teknologi yang Saya Pelajari (Neon Rotate + Bounce)
+## 🚀 Teknologi yang Saya Pelajari
 
 <p align="center">
   <img src="assets/html-rotate-glow.svg" width="70" alt="HTML" />
@@ -34,10 +34,8 @@ Saya suka membuat mini-project untuk melatih skill dan kreativitas.
 ---
 
 ## 🌐 Connect With Me
-- Instagram — https://instagram.com/USERNAME  
-- TikTok — https://tiktok.com/@USERNAME  
-- LinkedIn — https://linkedin.com/in/USERNAME  
-- Email — yourmail@example.com  
+- Instagram — https://instagram.com/areybra  
+- Email — aretaradjawali@gmail.com
 
 ---
 
