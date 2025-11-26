@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g transform="translate(70,70)">
+    <!-- outer circle -->
+    <circle cx="0" cy="0" r="48" fill="#e34f26" filter="url(#glow)"/>
+    <!-- inner shield-like polygon (stylized) -->
+    <polygon points="-28,-10 0,-40 28,-10 20,34 0,47 -20,34" fill="#fff" opacity="0.06"/>
+    <!-- label -->
+    <text x="0" y="8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="20" text-anchor="middle" fill="white">HTML</text>
+    <!-- rotate + float animation group -->
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
+        from="-6" to="6" dur="3s" repeatCount="indefinite" fill="freeze" additive="sum"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        values="0 0; 0 -6; 0 0" dur="2.5s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+</svg>

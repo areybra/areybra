@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g transform="translate(70,70)">
+    <circle cx="0" cy="0" r="48" fill="#1572b6" filter="url(#glow)"/>
+    <rect x="-30" y="-32" width="60" height="48" rx="8" fill="#fff" opacity="0.06"/>
+    <text x="0" y="8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="20" text-anchor="middle" fill="white">CSS</text>
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
+        from="6" to="-6" dur="3.2s" repeatCount="indefinite" fill="freeze" additive="sum"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        values="0 0; 0 -8; 0 0" dur="2.7s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </g>
+</svg>
