@@ -5,33 +5,22 @@
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
-
 ## 💡 Tentang Saya
 Saya adalah seorang pelajar yang tertarik dalam dunia pengembangan web.  
-Fokus saya saat ini adalah mempelajari **HTML, CSS, JavaScript**, serta konsep dasar **frontend development**.  
-Saya suka membuat proyek kecil untuk melatih problem solving dan kreativitas.
+Saat ini saya fokus mempelajari **HTML, CSS, JavaScript**, dan konsep **frontend development**.  
+Saya suka membuat mini-project untuk melatih skill dan kreativitas.
 
 ---
 
-<!-- ======================= ANIMATED ICONS ======================= -->
+## 🚀 Teknologi yang Saya Pelajari (Neon Rotate + Bounce)
 
-## 🚀 Teknologi yang Saya Pelajari
-
-<div align="center">
-
-
-<div class="floating-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-</div>
-
-</div>
+<p align="center">
+  <img src="assets/html-rotate-glow.svg" width="70" alt="HTML" />
+  <img src="assets/css-rotate-glow.svg" width="70" alt="CSS" />
+  <img src="assets/js-rotate-glow.svg" width="70" alt="JS" />
+</p>
 
 ---
-
-<!-- ======================= STATS ======================= -->
 
 ## 📊 GitHub Stats
 
@@ -43,8 +32,6 @@ Saya suka membuat proyek kecil untuk melatih problem solving dan kreativitas.
 </div>
 
 ---
-
-<!-- ======================= SOCIAL MEDIA ======================= -->
 
 ## 🌐 Connect With Me
 - Instagram — https://instagram.com/USERNAME  
