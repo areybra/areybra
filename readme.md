@@ -95,21 +95,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=areybra&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- Opsi 1: Menggunakan GitHub Readme Stats (Versi Stabil) -->
+  <!-- Pastikan mengganti 'areybra' dengan username yang benar jika berbeda -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <!-- Opsi 2: Top Languages (Dipisah agar tidak berat) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Opsi 3: Streak Stats (Alternatif provider jika yang atas gagal) -->
+  <img height="180" src="https://streak-stats.demolab.com?user=areybra&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
 </div>
 
 ---
