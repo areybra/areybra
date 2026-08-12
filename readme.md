@@ -1,160 +1,135 @@
-<!-- ======================= HEADER & INTRO ======================= -->
+<!-- ======================= HEADER ======================= -->
 <div align="center">
-  
-  <!-- Optional: Ganti URL di bawah dengan link banner/gambar header kamu jika ada -->
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea,764ba2&height=200&section=header&text=Hello,%20I'm%20Arey&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" /> -->
 
-  <h1>👋 Hello, I'm <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Arey</span></h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=220&section=header&text=Arey&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&fontFamily=Fira%20Code" width="100%" />
+
   <p>
-    <strong>🚀 Web Development Enthusiast</strong> • 💻 Learning • 🛠️ Building • 🌱 Growing
+    <strong>CS Student</strong> · <em>Web Development</em> · <strong>Open to Learn</strong>
   </p>
 
-  <div>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-success?style=for-the-badge&logo=handshake&logoColor=white&color=667eea" alt="Open to Collaboration" />
-  </div>
+  <img src="https://img.shields.io/badge/🎓_Status-Aktif_Membelajar-0f0c29?style=flat-square&labelColor=302b63" alt="Status" />
+  <img src="https://img.shields.io/badge/🤝_Kolaborasi-Terbuka-0f0c29?style=flat-square&labelColor=302b63" alt="Open to Collab" />
+
 </div>
 
 ---
 
-## 📋 About Me
+## 👤 Tentang Saya
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="65%">
       <p>
-        👨‍💻 I'm a passionate web development learner focused on creating beautiful and functional web applications.
-        <br><br>
-        💡 Currently mastering the fundamentals while building practical projects.
-        <br>
-        🎯 <strong>Goal:</strong> Become a proficient full-stack developer through continuous learning and hands-on experience.
+        Saya adalah <strong>pelajar yang sedang mendalami web development</strong>, fokus membangun fondasi kuat dari dasar hingga proyek nyata.
+      </p>
+      <p>
+        📍 <strong>Fokus saat ini:</strong> Mengasah kemampuan JavaScript & CSS<br>
+        🎯 <strong>Tujuan:</strong> Menjadi Full-Stack Developer yang solid<br>
+        💬 <strong>Bahasa:</strong> Indonesia · English
       </p>
     </td>
-    <td valign="top" width="40%" align="center">
-      <!-- Ganti URL ini dengan foto profil kamu atau ilustrasi coding -->
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-2964817-2464799.png" width="200" alt="Coding Illustration" />
+    <td valign="top" width="35%" align="center">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-2964817-2464799.png" width="180" alt="Illustration" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🌟 Core Technologies
+## 🧰 Tech Stack
 
 <div align="center">
 
-| HTML5 | CSS3 | JavaScript |
-| :---: | :---: | :---: |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| Semantic Structure<br>Forms & Validation<br>Accessibility | Flexbox/Grid<br>Responsive Design<br>CSS Variables | ES6+ Features<br>DOM Manipulation<br>Async Programming |
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| Semantic · A11y · Form | Flexbox · Grid · Responsive | ES6+ · DOM · Async |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
+| Version Control · Branching | Repo · Collaboration | Extensions · Debugging |
 
 </div>
 
-### 📊 Skill Progress
+---
 
-> *Visual representation of my current learning curve.*
+## 📈 Progress Belajar
+HTML5 ████████████████░░░░ 80%
+CSS3 ████████████░░░░░░░░ 60%
+JavaScript ████████░░░░░░░░░░░░ 40%
+Git & GitHub ██████░░░░░░░░░░░░░ 30%
 
-- **HTML5** `85%` ██████████░░
-- **CSS3** `60%` ██████░░░░░░
-- **JavaScript** `45%` ████░░░░░░░░
-
-*(Note: Percentages are self-assessed based on current comfort level)*
+<p><sub>※ Self-assessed · Terus diperbarui seiring progres belajar</sub></p>
 
 ---
 
-## 🎯 Learning Journey
+## 📚 Roadmap Belajar
 
-### 🚀 Current Focus Areas
-- [ ] Mastering JavaScript fundamentals and ES6+ features
-- [ ] Understanding modern CSS frameworks and methodologies
-- [ ] Building responsive and accessible web applications
-- [ ] Learning version control with Git and GitHub workflows
+### 🔥 Sedang Dipelajari
+- [ ] JavaScript Fundamentals (ES6+)
+- [ ] Responsive Design & CSS Methodology
+- [ ] Git Workflow & GitHub Collaboration
 
-### 📚 Favorite Resources
-- 📚 [MDN Web Docs](https://developer.mozilla.org/) - Comprehensive documentation
-- 🎓 [freeCodeCamp](https://www.freecodecamp.org/) - Interactive challenges
-- 📺 YouTube Tutorials - Visual learning
-- 📖 Structured Online Courses
+### 📌 Berikutnya
+- [ ] CSS Framework (Tailwind CSS)
+- [ ] JavaScript Framework (React)
+- [ ] Backend Basics (Node.js)
 
----
-
-## 💼 Projects
-
-### 🔨 Currently Working On
-
-| Project | Description | Status |
-| :--- | :--- | :---: |
-| **📱 Responsive Portfolio** | Personal portfolio website built with HTML, CSS, and JS. | 🟡 In Progress |
-| **🎮 Interactive Quiz App** | JS-based quiz app with dynamic question loading. | ⚪ Planned |
-| **🎨 CSS Art Gallery** | Exploring CSS capabilities for artistic designs. | 🔵 Learning |
+### ✅ Selesai
+- [x] HTML5 Semantic & Best Practices
+- [x] CSS Flexbox & Grid
+- [x] Git Basics (commit, push, pull)
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Proyek
+
+| Proyek | Tech | Status |
+|:---|:---|:---:|
+| **Responsive Portfolio** | HTML · CSS · JS | 🟡 On Progress |
+| **Interactive Quiz App** | JavaScript · DOM | ⚪ Planned |
+| **CSS Art Gallery** | Pure CSS | 🔵 Exploring |
+
+---
+
+## 📊 Statistik GitHub
 
 <div align="center">
-  
-  <!-- Opsi 1: Menggunakan GitHub Readme Stats (Versi Stabil) -->
-  <!-- Pastikan mengganti 'areybra' dengan username yang benar jika berbeda -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <!-- Opsi 2: Top Languages (Dipisah agar tidak berat) -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=28" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Languages" />
 
   <br/><br/>
 
-  <!-- Opsi 3: Streak Stats (Alternatif provider jika yang atas gagal) -->
-  <img height="180" src="https://streak-stats.demolab.com?user=areybra&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<h3>🤝 Let's Connect and Collaborate!</h3>
-<p>I'm always excited to connect with fellow developers, share knowledge, and work on interesting projects together.</p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/areybra)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aretaradjawali@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areybra)
+  <img height="170" src="https://streak-stats.demolab.com?user=areybra&theme=tokyonight&hide_border=true&date_format=%5BY%5D%20n%5B%2C%20j%5D" alt="Streak" />
 
 </div>
 
 ---
 
-## 🎯 Goals & Aspirations
+## 🌐 Hubungi Saya
 
-### 🚀 Short-term Goals (Next 6 Months)
-- ✅ Complete advanced JavaScript concepts and DOM manipulation
-- ✅ Build 5+ complete web projects from scratch
-- ✅ Learn and implement CSS frameworks like Bootstrap/Tailwind
-- ✅ Understand Git workflows and collaborative development
+<div align="center">
 
-### 🌟 Long-term Vision
-- Master full-stack development with modern frameworks
-- Contribute to open-source projects
-- Build a strong portfolio showcasing diverse skills
-- Help other beginners in their learning journey
+  <p><em>Terbuka untuk diskusi, kolaborasi proyek, atau sekadar ngobrol soal kode.</em></p>
 
----
+  <a href="https://github.com/areybra">
+    <img src="https://img.shields.io/badge/GitHub-areybra-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:aretaradjawali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aretaradjawali-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/areybra">
+    <img src="https://img.shields.io/badge/Instagram-@areybra-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 
-## 📝 Quote of the Day
-
-> *"The best way to learn is by doing. Every line of code is a step forward."*
+</div>
 
 ---
 
 <div align="center">
-  <p>
-    <span style="color: #667eea;">✨</span> Thanks for visiting my profile! 
-    <span style="color: #667eea;">🚀</span> Feel free to explore my repositories and reach out!
-  </p>
-  <sub>Built with ❤️ and ☕ by Arey</sub>
+
+  > *"Setiap baris kode adalah satu langkah maju."*
+
+  <br/>
+  <sub>Dibuat dengan ❤️ dan ☕ oleh <strong>Arey</strong></sub>
+
 </div>
