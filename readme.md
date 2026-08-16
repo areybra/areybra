@@ -51,45 +51,6 @@
 
 ---
 
-## 📈 Progress Belajar
-HTML5 ████████████████░░░░ 80%
-CSS3 ████████████░░░░░░░░ 60%
-JavaScript ████████░░░░░░░░░░░░ 40%
-Git & GitHub ██████░░░░░░░░░░░░░ 30%
-
-<p><sub>※ Self-assessed · Terus diperbarui seiring progres belajar</sub></p>
-
----
-
-## 📚 Roadmap Belajar
-
-### 🔥 Sedang Dipelajari
-- [ ] JavaScript Fundamentals (ES6+)
-- [ ] Responsive Design & CSS Methodology
-- [ ] Git Workflow & GitHub Collaboration
-
-### 📌 Berikutnya
-- [ ] CSS Framework (Tailwind CSS)
-- [ ] JavaScript Framework (React)
-- [ ] Backend Basics (Node.js)
-
-### ✅ Selesai
-- [x] HTML5 Semantic & Best Practices
-- [x] CSS Flexbox & Grid
-- [x] Git Basics (commit, push, pull)
-
----
-
-## 💼 Proyek
-
-| Proyek | Tech | Status |
-|:---|:---|:---:|
-| **Responsive Portfolio** | HTML · CSS · JS | 🟡 On Progress |
-| **Interactive Quiz App** | JavaScript · DOM | ⚪ Planned |
-| **CSS Art Gallery** | Pure CSS | 🔵 Exploring |
-
----
-
 ## 📊 Statistik GitHub
 
 <div align="center">
@@ -117,8 +78,8 @@ Git & GitHub ██████░░░░░░░░░░░░░ 30%
   <a href="mailto:aretaradjawali@gmail.com">
     <img src="https://img.shields.io/badge/Email-aretaradjawali-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/areybra">
-    <img src="https://img.shields.io/badge/Instagram-@areybra-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/areybraa">
+    <img src="https://img.shields.io/badge/Instagram-@areybraa-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 
 </div>
