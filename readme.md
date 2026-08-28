@@ -42,9 +42,13 @@
 <div align="center">
 
   <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=28" alt="Stats" />
-  <img height="170" src="https://vercel.app" alt="Languages" />
+  <!-- Kartu Statistik Utama -->
+  <img height="170" src="https://vercel.app" alt="GitHub Stats" />
+  
+  <!-- Kartu Bahasa Pemrograman Teratas -->
+  <img height="170" src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
   <br/><br/>
 
