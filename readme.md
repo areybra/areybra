@@ -26,7 +26,7 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-      <img src="assets/assets/profile.jpg" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Profile Arey" />
+      <img src="assets/assets/profile.jpg" style="border-radius: 50%; object-fit: cover;" alt="Profile Arey" />
     </td>
     <td align="left" width="60%">
       <p>🎯 <strong>Siswa Rekayasa Perangkat Lunak</strong></p>
