@@ -36,27 +36,15 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
-| Semantic · A11y · Form | Flexbox · Grid · Responsive | ES6+ · DOM · Async |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
-| Version Control · Branching | Repo · Collaboration | Extensions · Debugging |
-
-</div>
-
----
 
 ## 📊 Statistik GitHub
 
 <div align="center">
 
+  <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=28" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Languages" />
+  <img height="170" src="https://vercel.app" alt="Languages" />
+</p>
 
   <br/><br/>
 
