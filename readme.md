@@ -24,37 +24,122 @@
 ---
 
 <!-- ======================= TENTANG SAYA ======================= -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Tentang Saya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
-<table>
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="65%">
-      <p>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        Saya adalah <strong>pelajar yang sedang mendalami web development</strong>, fokus membangun fondasi kuat dari dasar hingga proyek nyata.
-      </p>
+    <td valign="top" width="60%" style="border: none;">
       
-      <ul>
-        <li>📍 <strong>Fokus saat ini:</strong> Mengasah kemampuan JavaScript & CSS</li>
-        <li>🎯 <strong>Tujuan:</strong> Menjadi Full-Stack Developer yang solid</li>
-        <li>💬 <strong>Bahasa:</strong> Indonesia · English</li>
-        <li>⚡ <strong>Fakta menarik:</strong> Suka ngoding sambil dengerin musik 🎵</li>
-      </ul>
+  <p>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Halo! Saya <strong>Arey</strong>, seorang pelajar yang passionate dalam <strong>web development</strong>. 
+    Sedang membangun fondasi kuat dari dasar hingga proyek nyata. 🚀
+  </p>
+      
+  <blockquote>
+    <p>💡 <em>"Belajar coding itu seperti bermain game - makin sering latihan, makin jago!"</em></p>
+  </blockquote>
 
-      <details>
-        <summary>📚 <strong>Yang sedang saya pelajari</strong></summary>
-        <br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </details>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>📍 <strong>Fokus saat ini:</strong> Mengasah kemampuan JavaScript & CSS</li>
+    <li>🎯 <strong>Tujuan:</strong> Menjadi Full-Stack Developer yang solid</li>
+    <li>💬 <strong>Bahasa:</strong> 🇮🇩 Indonesia · 🇬🇧 English</li>
+    <li>⚡ <strong>Fakta menarik:</strong> Suka ngoding sambil dengerin musik 🎵</li>
+    <li>🌱 <strong>Motto:</strong> Konsisten lebih baik daripada perfect</li>
+  </ul>
+
+  <details>
+    <summary>📚 <strong>Yang sedang saya pelajari</strong> <em>(klik untuk lihat)</em></summary>
+    <br/>
+    
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+    
+  <br/>
+    
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">🌱</td>
+        <td align="center">🚀</td>
+        <td align="center">💪</td>
+        <td align="center">📈</td>
+      </tr>
+      <tr>
+        <td align="center"><sub>Beginner</sub></td>
+        <td align="center"><sub>Growing</sub></td>
+        <td align="center"><sub>Consistent</sub></td>
+        <td align="center"><sub>Improving</sub></td>
+      </tr>
+    </table>
+  </div>
+    
+  </details>
+
+  <br/>
+      
+  <div>
+    <h4>🏆 Achievement Goals:</h4>
+    <p>
+      <input type="checkbox" checked disabled> ✅ HTML & CSS Fundamentals<br>
+      <input type="checkbox" checked disabled> ✅ JavaScript Basics<br>
+      <input type="checkbox" disabled> ⬜ Advanced JavaScript<br>
+      <input type="checkbox" disabled> ⬜ React.js<br>
+      <input type="checkbox" disabled> ⬜ Backend (Node.js)<br>
+      <input type="checkbox" disabled> ⬜ Full-Stack Projects
+    </p>
+  </div>
+
     </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-2964817-2464799.png" width="200" alt="Illustration" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    
+    <td valign="top" width="40%" align="center" style="border: none;">
+      
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-2964817-2464799.png" 
+       width="220" 
+       alt="Web Development Illustration" 
+       style="border-radius: 20px; box-shadow: 0 8px 24px rgba(108,99,255,0.3); transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+  
+  <br/><br/>
+  
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 15px; color: white;">
+    <strong>💻 Sedang Coding...</strong>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=180&lines=JavaScript...;CSS+Animations...;Building+Projects...;Learning+New+Things..." alt="Currently Working" />
+  </div>
+  
+  <br/>
+  
+  <details>
+    <summary>📊 <strong>Quick Stats</strong></summary>
+    <br/>
+    <table style="border: none;">
+      <tr>
+        <td align="center" style="border: none;">
+          <strong>🔥 30</strong><br/><sub>Day Streak</sub>
+        </td>
+        <td align="center" style="border: none;">
+          <strong>📚 5+</strong><br/><sub>Projects</sub>
+        </td>
+        <td align="center" style="border: none;">
+          <strong>⏰ 500+</strong><br/><sub>Hours Coding</sub>
+        </td>
+      </tr>
+    </table>
+  </details>
+
     </td>
   </tr>
 </table>
@@ -151,7 +236,7 @@
 
   <br/>
   
-  > *"Setiap baris kode adalah satu langkah maju."*
+  *"Setiap baris kode adalah satu langkah maju."*
 
   <br/>
   
