@@ -94,9 +94,9 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=areybra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  <img width="49%" src="https://stats-five-gamma.vercel.app/api?username=areybra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+  <img width="49%" src="https://stats-five-gamma.vercel.app/api/top-langs/?username=areybra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
 
 </div>
 
@@ -137,7 +137,7 @@
   <a href="https://instagram.com/areybraa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@areybraa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourphonenumber" target="_blank">
+  <a href="https://wa.me/6282142961010" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
