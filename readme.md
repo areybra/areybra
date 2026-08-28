@@ -46,7 +46,7 @@
   <img height="170" src="https://stats-five-gamma.vercel.app/api?username=areybra" alt="GitHub Stats" />
   
   <!-- Kartu Bahasa Pemrograman Teratas (Sudah Diperbaiki) -->
-  <img height="170" src="https://vercel.app" alt="Top Languages" />
+  <img height="170" src="https://stats-five-gamma.vercel.app/api/top-langs/?username=areybra" alt="Top Languages" />
 </p>
 
 
