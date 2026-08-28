@@ -41,13 +41,14 @@
 
 <div align="center">
 
-  <p align="center">
+ <p align="center">
   <!-- Kartu Statistik Utama -->
   <img height="170" src="https://vercel.app" alt="GitHub Stats" />
   
-  <!-- Kartu Bahasa Pemrograman Teratas -->
+  <!-- Kartu Bahasa Pemrograman Teratas (Sudah Diperbaiki) -->
   <img height="170" src="https://vercel.app" alt="Top Languages" />
 </p>
+
 
 
   <br/><br/>
