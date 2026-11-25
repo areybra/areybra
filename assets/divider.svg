@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#6C63FF" stop-opacity="0"/><stop offset=".3" stop-color="#6C63FF"/><stop offset=".5" stop-color="#00E5FF"/><stop offset=".7" stop-color="#6C63FF"/><stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="g" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+  <style>
+    .tw{animation:tw 3s ease-in-out infinite}
+    @keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+    .st{transform-box:fill-box;transform-origin:center;animation:st 3s ease-in-out infinite}
+    @keyframes st{0%,100%{transform:scale(.8) rotate(0)}50%{transform:scale(1.25) rotate(90deg)}}
+  </style>
+</defs>
+<rect x="40" y="13" width="920" height="2" rx="1" fill="url(#l)"/>
+<path class="st" d="M500 3 L503.5 10.5 L511 14 L503.5 17.5 L500 25 L496.5 17.5 L489 14 L496.5 10.5 Z" fill="#fff"/>
+<circle cx="3" cy="14" r="6" fill="#00E5FF" opacity=".7" filter="url(#g)"><animateMotion dur="6s" repeatCount="indefinite" path="M60 0 H440"/></circle>
+<circle cx="3" cy="14" r="2.5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M60 0 H440"/></circle>
+<circle cx="3" cy="14" r="6" fill="#FF6BD6" opacity=".7" filter="url(#g)"><animateMotion dur="7s" repeatCount="indefinite" path="M940 0 H560"/></circle>
+<circle cx="3" cy="14" r="2.5" fill="#fff"><animateMotion dur="7s" repeatCount="indefinite" path="M940 0 H560"/></circle>
+<circle cx="623.0" cy="23.3" r="0.8" fill="#9ff3ff" class="tw" style="animation-duration:2.5s;animation-delay:-2.3s"/>
+<circle cx="231.0" cy="5.2" r="0.6" fill="#cfd0ff" class="tw" style="animation-duration:3.9s;animation-delay:-4.2s"/>
+<circle cx="268.0" cy="7.6" r="1.0" fill="#cfd0ff" class="tw" style="animation-duration:4.5s;animation-delay:-2.4s"/>
+<circle cx="48.7" cy="20.0" r="0.6" fill="#9ff3ff" class="tw" style="animation-duration:5.5s;animation-delay:-1.2s"/>
+<circle cx="731.2" cy="27.8" r="0.6" fill="#ffd6f6" class="tw" style="animation-duration:3.6s;animation-delay:-5.4s"/>
+<circle cx="171.2" cy="1.9" r="1.2" fill="#9ff3ff" class="tw" style="animation-duration:5.2s;animation-delay:-5.0s"/>
+<circle cx="223.7" cy="20.2" r="1.2" fill="#ffd6f6" class="tw" style="animation-duration:5.1s;animation-delay:-5.9s"/>
+<circle cx="675.0" cy="6.1" r="1.0" fill="#cfd0ff" class="tw" style="animation-duration:5.2s;animation-delay:-0.9s"/>
+<circle cx="833.8" cy="15.6" r="1.0" fill="#cfd0ff" class="tw" style="animation-duration:5.5s;animation-delay:-2.6s"/>
+<circle cx="323.7" cy="0.5" r="1.6" fill="#ffd6f6" class="tw" style="animation-duration:4.3s;animation-delay:-1.6s"/>
+<circle cx="274.0" cy="6.4" r="1.2" fill="#ffffff" class="tw" style="animation-duration:2.8s;animation-delay:-3.3s"/>
+<circle cx="151.6" cy="0.2" r="1.0" fill="#9ff3ff" class="tw" style="animation-duration:4.7s;animation-delay:-0.0s"/>
+<circle cx="483.4" cy="27.9" r="0.8" fill="#ffffff" class="tw" style="animation-duration:6.0s;animation-delay:-2.5s"/>
+<circle cx="414.6" cy="22.6" r="1.2" fill="#9ff3ff" class="tw" style="animation-duration:4.2s;animation-delay:-1.3s"/>
+<circle cx="277.1" cy="26.3" r="0.8" fill="#ffffff" class="tw" style="animation-duration:6.0s;animation-delay:-2.7s"/>
+<circle cx="175.8" cy="0.7" r="0.8" fill="#9ff3ff" class="tw" style="animation-duration:4.2s;animation-delay:-4.0s"/>
+<circle cx="358.9" cy="21.1" r="1.0" fill="#cfd0ff" class="tw" style="animation-duration:2.3s;animation-delay:-2.8s"/>
+<circle cx="63.7" cy="10.2" r="1.6" fill="#ffd6f6" class="tw" style="animation-duration:3.1s;animation-delay:-1.5s"/>
+<circle cx="399.3" cy="22.5" r="0.6" fill="#ffd6f6" class="tw" style="animation-duration:5.7s;animation-delay:-2.9s"/>
+<circle cx="250.5" cy="25.5" r="0.6" fill="#9ff3ff" class="tw" style="animation-duration:2.0s;animation-delay:-0.8s"/>
+<circle cx="388.4" cy="10.3" r="1.0" fill="#ffd6f6" class="tw" style="animation-duration:5.2s;animation-delay:-2.2s"/>
+<circle cx="354.1" cy="7.8" r="1.0" fill="#cfd0ff" class="tw" style="animation-duration:4.4s;animation-delay:-1.6s"/>
+<circle cx="741.6" cy="5.9" r="0.8" fill="#cfd0ff" class="tw" style="animation-duration:4.2s;animation-delay:-4.1s"/>
+<circle cx="347.5" cy="4.4" r="1.0" fill="#ffffff" class="tw" style="animation-duration:3.4s;animation-delay:-2.6s"/>
+</svg>
