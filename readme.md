@@ -1,7 +1,7 @@
 <!-- ======================= HERO / HEADER ======================= -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D17,35:1B1464,70:6C63FF,100:00E5FF&height=240&section=header&text=AREY&fontSize=84&fontAlignY=36&animation=twinkling&fontColor=ffffff&fontFamily=Fira%20Code&desc=%E2%9C%A6%20Software%20Engineering%20Student%20%C2%B7%20Web%20Developer%20%E2%9C%A6&descAlignY=58&descSize=20" width="100%" alt="Header" />
+  <img src="assets/header.svg" width="100%" alt="AREY — Software Engineering Student · Web Developer" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=8F88FF&center=true&vCenter=true&width=620&height=50&lines=%F0%9F%9A%80+Houston%2C+we+have+a+developer!;%F0%9F%8C%8C+Exploring+the+universe+of+code;%F0%9F%9B%B0%EF%B8%8F+Web+Development+%26+Autonomous+Systems;%E2%98%84%EF%B8%8F+Always+Learning%2C+Always+Launching" alt="Typing SVG" />
@@ -28,69 +28,48 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:6C63FF,100:0B0D17&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <!-- ======================= TENTANG SAYA ======================= -->
 ## 🧑‍🚀 Briefing Misi
 
 <table align="center">
   <tr>
-    <td align="center" width="35%">
-      <img src="assets/profile.jpg" width="200" alt="Profile Arey" />
+    <td align="center" valign="middle" width="30%">
+      <img src="assets/profile.jpg" width="190" alt="Profile Arey" />
       <br/><br/>
-      <sub><b>COMMANDER AREY</b></sub><br/>
+      <b>COMMANDER AREY</b><br/>
       <sub><code>ID: areybra</code></sub>
     </td>
-    <td align="left" width="65%">
-
-```yaml
-callsign   : Arey
-role       : Software Engineering Student
-focus      : [Web Development, Autonomous Systems]
-base       : Indonesia 🇮🇩
-languages  : [Bahasa Indonesia, English]
-mission    : Membangun produk digital yang rapi, cepat, dan bermanfaat
-status     : Learning & Building 🚀
-```
-
-> *"Belajar adalah proses seumur hidup. Setiap hari adalah kesempatan untuk menjadi lebih baik."*
-
-   </td>
+    <td align="center" valign="middle" width="70%">
+      <img src="assets/briefing.svg" width="100%" alt="Mission briefing Arey" />
+    </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:6C63FF,100:0B0D17&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <!-- ======================= TEKNOLOGI & TOOLS ======================= -->
 ## 🛠️ Peralatan Kru
 
 <div align="center">
+  <img src="assets/tech.svg" width="100%" alt="Tata surya teknologi: HTML, CSS, JavaScript, PHP, Python, MySQL, Figma, Git, GitHub" />
+  <br/>
+  <sub><i>Setiap planet adalah teknologi yang mengorbit di sekitar inti: <b>kode</b>.</i></sub>
+</div>
 
-**Bahasa & Teknologi**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,php,html,css,mysql&theme=dark" alt="Languages" />
+<div align="center">
 
-**Tools & Platform**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools" />
+| 🌐 Frontend | ⚙️ Backend & Data | 🎨 Desain & Workflow |
+| :---: | :---: | :---: |
+| HTML5 · CSS3 · JavaScript | PHP · Python · MySQL | Figma · Git · GitHub |
+| Antarmuka responsif & interaktif | Logika aplikasi, otomasi & data | Prototype, versioning & kolaborasi |
 
 </div>
 
-<details>
-  <summary><b>🔭 Lihat rincian peralatan</b></summary>
-  <br/>
-
-| Sistem | Peralatan | Fungsi |
-| :-- | :-- | :-- |
-| 🌐 **Frontend** | HTML5 · CSS3 · JavaScript | Antarmuka yang responsif & interaktif |
-| ⚙️ **Backend** | PHP · Python | Logika aplikasi & otomasi |
-| 🗄️ **Database** | MySQL | Penyimpanan & pengelolaan data |
-| 🎨 **Desain** | Figma | Wireframe, prototype, UI/UX |
-| 🔧 **Workflow** | Git · GitHub | Version control & kolaborasi |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:6C63FF,100:0B0D17&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <!-- ======================= STATISTIK GITHUB ======================= -->
 ## 📊 Telemetri GitHub
@@ -110,7 +89,7 @@ status     : Learning & Building 🚀
   <img width="75%" src="https://streak-stats.demolab.com?user=areybra&theme=dark&hide_border=true&background=0B0D17&ring=6C63FF&fire=FF6BD6&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=8F88FF&sideNums=FFFFFF&dates=9A9AC8&date_format=%5BY%5D%20n%5B%2C%20j%5D" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:6C63FF,100:0B0D17&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <!-- ======================= PROYEK ======================= -->
 ## 🪐 Log Misi (Proyek)
@@ -138,7 +117,7 @@ status     : Learning & Building 🚀
   </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:6C63FF,100:0B0D17&height=2&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <!-- ======================= HUBUNGI SAYA ======================= -->
 ## 📡 Buka Saluran Komunikasi
